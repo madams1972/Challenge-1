@@ -8,4 +8,4 @@ consolidated repetitive css and made selectors more specific
 re-organized css to better match sections in html
 fixed missing id to make menu link work correctly
 commented HTML and CSS for readability and clarity
-Screenshot
+
